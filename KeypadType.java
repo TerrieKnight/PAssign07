@@ -1,12 +1,10 @@
 /**
- * File: TestingFX/keypad/KeyPadPane.java
+ * File: TestingFX/keypad/KeypadType.java
  * Package: keypad
- * @author Christopher Williams
- * Created on: Mar 02, 2020
- * Last Modified:  Oct 27, 2021
- * Description:  Extended GridPane that creates a KeyPad with either an ATM or phone-esque 
- * 			Button arrangement
- * Small change to trigger update
+ * @author Tiffany Fadgen 
+ * Created on: April 19, 2023
+ * Last Modified: April 19, 2023
+ * Description: Changes button numbers 
  */
 
 package keypad;
